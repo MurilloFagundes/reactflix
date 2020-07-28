@@ -1,0 +1,185 @@
+{
+    "categorias": [
+      {
+        "titulo": "Travis Scott",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#c0392b",
+        "link_extra": {
+          "text": "Maiores sucessos de Travis Scott",
+          "url": "https://www.youtube.com/watch?v=2a8PgqWrc_4&list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+        },
+        "videos": [
+          {
+            "titulo": "The New Style! ASTROWORLD escute agora!",
+            "url": "https://www.youtube.com/watch?v=2a8PgqWrc_4&list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "SICKO MODE ft. Drake",
+            "url": "https://youtu.be/6ONRf7h3Mdk?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "STOP TRYING TO BE GOD",
+            "url": "https://youtu.be/YqvCptqhHfs?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "WAKE UP",
+            "url": "https://youtu.be/yChnkXhauwM?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "YOSEMITE",
+            "url": "https://youtu.be/PJWHAiDARMQ?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "CAN'T SAY",
+            "url": "https://youtu.be/2LegcNVM_nM?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqcw"
+          },
+          {
+            "titulo": "CAROUSEL",
+            "url": "https://youtu.be/qe-gnV-lvfE?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          },
+          {
+            "titulo": "WHO? WHAT!",
+            "url": "https://youtu.be/gLkQA7iLNUk?list=OLAK5uy_m6xt1ZipEd_hALlmTOFY6S9OORu5LqPqc"
+          }        
+        ]
+      },
+      {
+        "titulo": "Drake",
+        "cor": "#16a085",
+        "link_extra": {
+          "text": "Maiores sucessos de Drake",
+          "url": "https://youtu.be/xWggTb45brM"
+        },
+        "videos": [
+          {
+            "titulo": "God's Plan",
+            "url": "https://youtu.be/xpVfcZ0ZcFM?t=3"
+          },
+          {
+            "titulo": "In My Feelings",
+            "url": "https://youtu.be/DRS_PpOrUZ4"
+          },
+          {
+            "titulo": "Toosie Slide",
+            "url": "https://www.youtube.com/watch?v=xWggTb45brM"
+          },
+          {
+            "titulo": "I'm Upset",
+            "url": "https://www.youtube.com/watch?v=rIhx2wZ8jnA"
+          }, 
+          {
+            "titulo": "Hotline Bling",
+            "url": "https://youtu.be/uxpDa-c-4Mc"
+          }
+        ]
+      },
+      {
+        "titulo": "Post Malone",
+        "cor": "#7f8c8d",
+        "link_extra": {
+          "text": "Maiores sucessos de Post Malone",
+          "url": "https://www.youtube.com/watch?v=SC4xMk98Pdc"
+        },
+        "videos": [
+          {
+            "titulo": "Congratulations",
+            "url": "https://www.youtube.com/watch?v=SC4xMk98Pdc"
+          },
+          {
+            "titulo": "Rockstar",
+            "url": "https://www.youtube.com/watch?v=UceaB4D0jpo"
+          },
+          {
+            "titulo": "Psycho",
+            "url": "https://www.youtube.com/watch?v=au2n7VVGv_c"
+          },
+          {
+            "titulo": "Saint-Tropez",
+            "url": "https://www.youtube.com/watch?v=MRyLC2M1K2w"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "#f39c12",
+        "videos": [
+          {
+            "titulo": "Interestellar",
+            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          },
+          {
+            "titulo": "Gattaca",
+            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          },
+          {
+            "titulo": "A Chegada",
+            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          },
+          {
+            "titulo": "Feitiço do Tempo",
+            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          }
+        ]
+      },
+      {
+        "titulo": "6IX9INE",
+        "cor": "#8e44ad",
+        "link_extra": {
+          "text": "Maiores sucessos de 6IX9INE",
+          "url": "https://www.alura.com.br/formacao-jogos-unity"
+        },
+        "videos": [
+          {
+            "titulo": "GOOBA ",
+            "url": "https://youtu.be/pPw_izFr5PA"
+          },
+          {
+            "titulo": "TROLLZ",
+            "url": "https://www.youtube.com/watch?v=oNg3M9IJJlY"
+          },
+          {
+            "titulo": "GOTTI",
+            "url": "https://www.youtube.com/watch?v=z5WrgDzNIZ0"
+          },
+          {
+            "titulo": "YAYA",
+            "url": "https://www.youtube.com/watch?v=yxgJclR4dUU"
+          },
+          {
+            "titulo": "FEFE",
+            "url": "https://www.youtube.com/watch?v=V_MXGdSBbAI"
+          }
+        ]
+      },
+      {
+        "titulo": "Swae Lee",
+        "cor": "#2ecc71",
+        "link_extra": {
+          "text": "Maiores sucessos de Swae Lee",
+          "url": "https://youtu.be/CTFtOOh47oo"
+        },
+        "videos": [
+          {
+            "titulo": "Unforgettable",
+            "url": "https://youtu.be/CTFtOOh47oo"
+          },
+          {
+            "titulo": "Sunflower",
+            "url": "https://www.youtube.com/watch?v=ApXoWvfEYVU"
+          },
+          {
+            "titulo": "Reality Check",
+            "url": "https://www.youtube.com/watch?v=G2ojsXwASV0"
+          },
+          {
+            "titulo": "Sextasy",
+            "url": "https://www.youtube.com/watch?v=v-Hf-lNWFUs"
+          },
+          {
+            "titulo": "Won't Be Late",
+            "url": "https://www.youtube.com/watch?v=iBioIsLoXoE"
+          }
+        ]
+      }
+    ]
+  }
