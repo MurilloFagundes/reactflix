@@ -44,3 +44,9 @@ border-radius: 5px;
 ::-webkit-scrollbar-thumb:hover {
 background: #c0392b;  
 }
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
